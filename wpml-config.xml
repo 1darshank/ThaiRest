@@ -1,0 +1,50 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">wpcf7_contact_form</custom-type>
+    <custom-type translate="1">slide</custom-type>
+    <custom-type translate="1">portfolio</custom-type>
+    <custom-type translate="1">team_member</custom-type>
+    <custom-type translate="1">testimonial</custom-type>
+    <custom-type translate="1">client</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">slide_group</taxonomy>
+    <taxonomy translate="1">portfolio_category</taxonomy>
+    <taxonomy translate="1">team_group</taxonomy>
+    <taxonomy translate="1">testimonial_group</taxonomy>
+    <taxonomy translate="1">client_group</taxonomy>
+  </taxonomies>
+  <custom-fields>
+    <custom-field action="translate">_thememount_page_options_subtitle</custom-field>
+    <custom-field action="translate">_thememount_page_options_title</custom-field>
+    <custom-field action="translate">_thememount_portfolio_data_clientname</custom-field>
+    <custom-field action="translate">_thememount_portfolio_data_linktext</custom-field>
+    <custom-field action="translate">_thememount_portfolio_data_skills</custom-field>
+    <custom-field action="translate">_thememount_portfolio_options_categorylist</custom-field>
+    <custom-field action="translate">_thememount_post_options_subtitle</custom-field>
+    <custom-field action="translate">_thememount_post_options_title</custom-field>
+    <custom-field action="translate">_thememount_slides_options_btntext</custom-field>
+    <custom-field action="translate">_thememount_slides_options_desc</custom-field>
+    <custom-field action="translate">_thememount_team_member_details_position</custom-field>
+    <custom-field action="translate">_thememount_testimonials_details_designation</custom-field>
+    <custom-field action="translate">_messages</custom-field>
+  </custom-fields>
+  <admin-texts>
+    <key name="howes">
+      <key name="topbartext"/>
+      <key name="copyrights"/>
+      <key name="team_before_title_text"/>
+      <key name="portfolio_description"/>
+      <key name="portfolio_project_details"/>
+      <key name="portfolio_related_title"/>
+      <key name="error404"/>
+      <key name="searchnoresult"/>
+      <key name="team_type_title"/>
+      <key name="team_group_title"/>
+      <key name="adv_tbar_catarc"/>
+      <key name="adv_tbar_tagarc"/>
+      <key name="adv_tbar_postclassified"/>
+      <key name="adv_tbar_authorarc"/>
+    </key>
+  </admin-texts>
+</wpml-config>
